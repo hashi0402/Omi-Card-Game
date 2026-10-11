@@ -1,0 +1,6 @@
+{
+  "name": "Kalam Omi",
+  "description": "Tropical Sri Lankan 4-player partnership Omi card game with single player, multiplayer club lobbies, custom trump selection, and authentic Sinhala rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
